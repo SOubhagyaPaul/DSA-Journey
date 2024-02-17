@@ -1,0 +1,37 @@
+Problems on Array
+1. Create a Class Search within that implement two Generic method LinearSearch(),
+BinarySearch(). Test your program for different data.
+
+2. Create a Class BasicSort within that implement three Generic methods that can implement the
+BuubleSort(), SelectionSort(), InsertionSort() that can sort of any type of data.
+
+3. Write a Generic method that computes the Second minimum and Second maximum elements
+of an array of type T and returns a pair containing the minimum and maximum value.
+
+4. Write class SparseMatrix to give a compressed storage representation of a sparse matrix and
+also find the transpose of the sparse matrix (from the compressed representation).
+
+5. Write a Class CheckTriangular within that implement methods to check whether a matrix is
+i) Lower triangular ii) Upper triangular iii) Diagonal iv) Identity v) Tridiagonal.
+
+6. Write a program to find whether a matrix is orthogonal or not. Also find the 1-norm of the
+matrix.
+
+7. Create a program with multi-dimensional List to store customer details (customerId,
+customerName, customerCity).
+This program to search the customer based on the customerName from a given array.
+Note: use Binary search and Insertion sort algorithm.
+ Create a constructor to initialize size of customer details for five customers.
+ Create customer method which takes the array of customer elements (sorted as a
+customerName).
+ Create a method to getCustomer(customerId) method which will return the customer
+details as a List.
+ Create a method to sortCustomer() method which will return the array in a sorted
+order based on customer city.
+
+8. Write a class Polynomial to perform the following
+a. Design a constructer to represent a polynomial (of single variable x).
+b. Create a method to addition of polynomials.
+c. Create a method to subtraction of polynomials.
+d. Create a method to multiply of polynomials.
+e. Create a method to find derivative of the polynomial.
