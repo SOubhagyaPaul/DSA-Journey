@@ -1,0 +1,14 @@
+Stack and its Application
+1. Write a program to implement a Stack class (use a Array to store the elements of the stack).
+[Implement Stack Overflow and Underflow by user defined Exception]. Write a method to
+check two stack are carrying similar elements or not.(Repetition of the elements are not
+consider)
+2. Write a method in a separate class to check an expression is valid or not.
+3. Write a method in a separate class to evaluate a postfix expression (Consider more than single
+digit number as a input).
+4. Write a method in a separate class to evaluate a prefix expression. (Consider more than single
+digit number as a input)
+5. Write a method in a separate class to convert an infix expression to its corresponding postfix
+expression.
+6. Write a method in a separate class to convert an infix expression to its corresponding prefix
+expression.
