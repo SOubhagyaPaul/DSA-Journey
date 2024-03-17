@@ -1,0 +1,13 @@
+1. Write a recursive function to calculate the gcd of two numbers.
+2. Write a recursive function to print the first n Fibonacci numbers.
+3. Write a recursive function to calculate the power of a two number(consider the degree as a
+negative/positive integer).
+4. Write a recursive function to calculate the sum of all digits of a number entered by the user.
+5. Write a recursive function to find the sum of the following series.
+
+(a) S= 2 + 4 + 6 + 8 + . . . . . + N (Input N).
+(b) S= 12- 32+ 52- 72+ + N (Input N).
+(c) S= x3- x3/3 + x3/9 - x3/27 + x3/81 - x3/243 ....(Input X,N).
+6. Write a Program to implement Binary Search using a recursive function.
+7. Write a Program to reverse an array using a recursive function.
+8. Write a Program to calculate the length of the string using a recursive function.
