@@ -37,7 +37,7 @@ class MargeSort{
 		if(lb<ub) {
 			int mid=(int) Math.floor((lb+ub)/2);
 			sort(a,lb,mid);
-			sort(a,ub,mid+1);
+			sort(a,mid+1,ub);
 			merge(a,lb,mid,ub);
 		}
 	}
